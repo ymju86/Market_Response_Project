@@ -1,5 +1,5 @@
 # Market Response Project
-Data: (https://blog.minethatdata.com/2008/03/minethatdata-e-mail-analytics-and-data.html)![image](https://user-images.githubusercontent.com/29196114/111030614-200ee400-83b8-11eb-97af-fb20651ef749.png)
+Data: https://blog.minethatdata.com/2008/03/minethatdata-e-mail-analytics-and-data.html
 
 - pandas, numpy, matplotlib, seaborn, plotly, sklearn, xgboost
 
